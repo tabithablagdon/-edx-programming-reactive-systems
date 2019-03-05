@@ -1,1 +1,1 @@
-# -edx-programming-reactive-systems
+# edx-programming-reactive-systems
